@@ -6,7 +6,12 @@
  "yomi": "ふうしかでん",
  "category": "能・狂言",
  "kind": "noh",
- "description": null,
+ "description": {
+  "kind": "能楽論",
+  "era": "応永7年（1400）頃〜",
+  "author": "世阿弥",
+  "desc": "父観阿弥の教えをもとに、稽古・物学（ものまね）・花などを説いた最初の能楽論。"
+ },
  "editions": [
   {
    "pid": "859394",
